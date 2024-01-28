@@ -1,0 +1,18 @@
+
+g	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(£ŒÏüşÿÿÿÿ8ºŸô¥Ô1
+Q
+java:S3740w"/Provide the parametrized type for this generic.(ù©Îïşÿÿÿÿ8ºŸô¥Ô1
+Q
+java:S3740|"/Provide the parametrized type for this generic.(ˆÀ¦ÿÿÿÿÿ8ºŸô¥Ô1
+R
+java:S3740†"/Provide the parametrized type for this generic.(¥Ò£üÿÿÿÿ8¸üõ¥Ô1
+l
+java:S11926"JDefine a constant instead of duplicating this literal "@test.com" 3 times.( ÈÑşÿÿÿÿÿ8ºŸô¥Ô1
+
+java:S1130T"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(£ŒÏüşÿÿÿÿ8ÓŸô¥Ô1
+j
+java:S4488S"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ï˜ğûÿÿÿÿÿ8ÓŸô¥Ô1
+l
+java:S4488d"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(óˆÿÜÿÿÿÿÿ8ÔŸô¥Ô1
+]	java:S125\"<This block of commented-out lines of code should be removed.(„ŞË–üÿÿÿÿ8ÔŸô¥Ô1
+X	java:S125`"<This block of commented-out lines of code should be removed.(±äóÉ8ÔŸô¥Ô1
